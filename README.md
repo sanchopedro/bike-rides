@@ -1,5 +1,7 @@
 # London Bike Sharing
 
+![London bikes](./image/london-bikes.png)
+
 ## Índice
 
 - [Introdução](#1-introdução)
